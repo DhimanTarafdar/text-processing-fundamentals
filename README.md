@@ -5,3 +5,4 @@
 - regex character set handel.
 - regex escape character.
 - regex digit character class.
+- regex wildcard character. 
