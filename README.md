@@ -10,4 +10,4 @@
 - regex plus quantifier.
 - regex question mark.
 - regex capture and group.
-  
+- findall,search,split,sub,compile function.
