@@ -6,3 +6,4 @@
 - regex escape character.
 - regex digit character class.
 - regex wildcard character. 
+- regex asterics.
